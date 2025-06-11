@@ -3201,3 +3201,8 @@ h6 {
         background-color: #1ac64d
     }
 }
+@media (max-width: 768px) {
+  .hero__actions {
+    margin-top: 60%;
+  }
+}
