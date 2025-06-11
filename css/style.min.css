@@ -1241,7 +1241,7 @@ h6 {
     left: 8%;
     width: 23%;
     aspect-ratio: 275/428;
-    background: url(../img/tokenomics/dec5.png) center/contain no-repeat
+    background: url(..) center/contain no-repeat
 }
 
 .tokenomics__left::after {
@@ -1252,7 +1252,7 @@ h6 {
     right: 25%;
     width: 15%;
     aspect-ratio: 158/222;
-    background: url(../img/tokenomics/dec6.png) center/contain no-repeat;
+    background: url(..) center/contain no-repeat;
     -webkit-transform: translateX(0) translateY(0);
     transform: translateX(0) translateY(0);
     -webkit-animation: tok-dec5 4s ease-in-out infinite;
@@ -1322,7 +1322,7 @@ h6 {
     right: 20%;
     width: 18%;
     aspect-ratio: 166/136;
-    background: url(../img/tokenomics/dec1.png) center/contain no-repeat;
+    background: url(.) center/contain no-repeat;
     -webkit-transform: translateX(0);
     transform: translateX(0);
     -webkit-animation: tok-dec1 4s ease-in-out infinite;
