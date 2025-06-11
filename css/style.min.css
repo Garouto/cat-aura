@@ -3206,3 +3206,11 @@ h6 {
     margin-top: 60%;
   }
 }
+@media (min-width: 768px) {
+  .tokenomics__title img {
+    transform: translateY(-30%);
+  }
+}
+.tokenomics__title img {
+  transform: translateY(-40%);
+}
