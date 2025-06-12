@@ -3575,3 +3575,8 @@ h6 {
     height: 3px;
   }
 }
+/* How  content */
+.page__how .how__content{
+ transform:translatex(0px) translatey(-88px);
+}
+
